@@ -1,0 +1,10 @@
+* text=auto
+
+*.ASC binary
+*.min.json binary
+
+.gitignore text
+*.md text
+*.php text
+*.json text
+*.sql text

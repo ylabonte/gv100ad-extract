@@ -1,6 +1,6 @@
 * text=auto
 
-*.ASC binary
+*.ASC binary linguist-detectable=false
 *.min.json binary
 
 .gitignore text
